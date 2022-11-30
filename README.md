@@ -14,9 +14,9 @@ With help from iDinoSoul, DazzlingPhoenix, and others, this custom boss fight wa
 
 ## Links and Contacts
 - **Discord**: Stonley890#3570
-- **Primary YouTube**: [Stonley890](https://youtube.com/@Stonley890)
-- **SoundCloud**:
-- **YouTube Music**:
+- **Primary YouTube**: [Stonley890 - YouTube](https://youtube.com/@Stonley890)
+- **SoundCloud**: [Stonley890 - SoundCloud](https://soundcloud.com/stonley890)
+- **YouTube Music**: [Stonley890 - YouTube Music](https://music.youtube.com/channel/UClKe8iY2yG8uBMugQ0YzE0Q)
 
 <!---
 Stonley890/Stonley890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
