@@ -8,7 +8,7 @@ Dreamvisitor is a Spigot plugin/Discord bot that allows automatic whitelisting, 
 
 ### Ex-Queen Battlewinner Boss Fight
 #### A custom Ender Dragon boss fight crafted entirely with command blocks.
-With help from iDinoSoul, DazzlingPhoenix, and others, this custom boss fight was crafted for the WoF:TWN server. It features a skippable cutscene, several different attacks, and two phases. Click the image below to watch the showcase video. 
+With help from iDinoSoul, DazzlingPhoenix, and others, this custom boss fight was crafted for the WoF:TNW server. It features a skippable cutscene, several different attacks, and two phases. Click the image below to watch the showcase video. 
 
 [![I Created a Boss Fight from Wings of Fire in Minecraft](https://img.youtube.com/vi/_g8wGaz8AQU/0.jpg)](https://www.youtube.com/watch?v=_g8wGaz8AQU)
 
