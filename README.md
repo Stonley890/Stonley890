@@ -7,17 +7,6 @@ If you're looking for music it's free to listen, download, and use from [SoundCl
 
 If you want something to watch, you can check out the YouTube channels I manage: [Stonley890](https://youtube.com/@Stonley890), [Bog The MudWing](https://youtube.com/@bogthemudwing), and [Waffle Irons Gaming](https://youtube.com/@waffleirons).
 #
-## Featured Projects
-### Dreamvisitor
-#### **A plugin for WoF:TNW to add various features.**
-Dreamvisitor is a Spigot plugin / Discord bot that allows automatic whitelisting, Discord/Minecraft chat linking, and other quality of life additions like pausing chat and logging server start/stop. It's the reason I started learning Java and there's still a lot I want to add.
-
-### Ex-Queen Battlewinner Boss Fight
-#### **A custom Ender Dragon boss fight crafted entirely with command blocks.**
-With help from iDinoSoul, DazzlingPhoenix, and others, this custom boss fight was crafted for the WoF:TNW server. It features a skippable cutscene, several different attacks, and two phases. Click the image below to watch the showcase video. 
-
-[![I Created a Boss Fight from Wings of Fire in Minecraft](https://img.youtube.com/vi/_g8wGaz8AQU/0.jpg)](https://www.youtube.com/watch?v=_g8wGaz8AQU)
-#
 ## Links and Contacts
 - **Discord**: Stonley890#3570
 - **Primary YouTube**: [Stonley890 - YouTube](https://youtube.com/@Stonley890)
