@@ -1,5 +1,7 @@
 # Hello!
 I'm Stonley890, but also known as Bog The MudWing or just Bog. I play a lot of Minecraft. I'm familiar with both resource packs and data packs for Minecaft: Java Edition. I am a beginner in Java and also have experience with JavaScript, Python, and C#. I'm also an administrator on a small Minecraft community, enjoy composing and creating music, and create/manage videos on several YouTube channels.
+
+You can learn more about me on my GitHub Pages site: https://stonley890.github.io/Stonley890/
 #
 If you're looking for Minecraft stuff, I have everything published on [Modrinth](https://modrinth.com/user/Stonley890).
 
