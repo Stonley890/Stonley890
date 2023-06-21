@@ -10,7 +10,7 @@ If you're looking for music it's free to listen, download, and use from [SoundCl
 If you want something to watch, you can check out the YouTube channels I manage: [Stonley890](https://youtube.com/@Stonley890), [Bog The MudWing](https://youtube.com/@bogthemudwing), and [Waffle Irons Gaming](https://youtube.com/@waffleirons).
 #
 ## Links and Contacts
-- **Discord**: Stonley890#3570
+- **Discord**: stonley890
 - **Primary YouTube**: [Stonley890 - YouTube](https://youtube.com/@Stonley890)
 - **SoundCloud**: [Stonley890 - SoundCloud](https://soundcloud.com/stonley890)
 - **Modrinth**: [Stonley890 - Modrinth](https://modrinth.com/user/Stonley890)
