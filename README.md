@@ -16,7 +16,7 @@ If you want something to watch, you can check out the YouTube channels I manage:
 - **Modrinth**: [Stonley890 - Modrinth](https://modrinth.com/user/Stonley890)
 
 ## Also Check Out
-- **Wings of Fire: The New World**: [Discord](https://discord.gg/woftnw)
+- **Wings of Fire: The New World**: [Web Page](https://www.woftnw.org)
 - **Bog The MudWing**: [YouTube](https://youtube.com/@BogTheMudwing)
 - **Waffle Irons Gaming**: [YouTube](https://youtube.com/@WaffleIrons)
 - **StonleyFX**: [YouTube](https://youtube.com/@StonleyFX)
