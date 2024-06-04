@@ -2,6 +2,8 @@
 I'm Stonley (also known as Bog The MudWing or just Bog). I am fairly proficient in Java and also have light experience with JavaScript, Python, and C#. I'm also an administrator on a small Minecraft community, enjoy composing and creating music, and manage videos on several YouTube channels. I love to create, teach, and learn. All of these projects were developed in my free time out of my own interest. All of my software projects are open source on GitHub and I welcome you to view them, take from them, and improve them! My music is free to download from SoundCloud and can be used with no attribution on YouTube videos.
 
 You can learn more about me on my GitHub Pages site: https://stonley890.github.io
+
+You can email me at stonley@macver.org
 #
 If you're looking for Minecraft stuff, I have everything published on [Modrinth](https://modrinth.com/user/Stonley890).
 
