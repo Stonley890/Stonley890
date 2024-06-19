@@ -4,6 +4,11 @@ I'm Stonley (also known as Bog The MudWing or just Bog). I am fairly proficient 
 You can learn more about me on my GitHub Pages site: https://stonley890.github.io
 
 You can email me at stonley@macver.org
+
+[![Matrix: @stonleyfx:matrix.org](https://img.shields.io/badge/Matrix-%40stonleyfx%3Amatrix.org-brightgreen?style=for-the-badge&logo=matrix)](https://matrix.to/#/@stonleyfx:matrix.org)
+![Discord: @stonleyfx](https://img.shields.io/badge/Discord-%40stonleyfx-darkblue?style=for-the-badge&logo=discord)
+
+
 #
 If you're looking for Minecraft stuff, I have everything published on [Modrinth](https://modrinth.com/user/Stonley890).
 
@@ -13,6 +18,7 @@ If you want something to watch, you can check out the YouTube channels I manage:
 #
 ## Links and Contacts
 - **Matrix** (preferred): [@stonley890:matrix.org](https://matrix.to/#/@stonleyfx:matrix.org)
+
 - **Mastodon**: [@Stonley890](https://mastodon.social/@Stonley890)
 - **Discord**: stonleyfx
 - **Primary YouTube**: [Stonley890 - YouTube](https://youtube.com/@Stonley890)
@@ -24,6 +30,13 @@ If you want something to watch, you can check out the YouTube channels I manage:
 - **Bog The MudWing**: [YouTube](https://youtube.com/@BogTheMudwing)
 - **Waffle Irons Gaming**: [YouTube](https://youtube.com/@WaffleIrons)
 - **StonleyFX**: [YouTube](https://youtube.com/@StonleyFX)
+
+#
+
+If you are financially stable and find value in my work, you can donate using the button below.
+
+[![Liberapay](https://img.shields.io/badge/Donate-yellow?style=for-the-badge&logo=liberapay&logoColor=white)](https://liberapay.com/Stonley890/)
+
 
 <!---
 Stonley890/Stonley890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
