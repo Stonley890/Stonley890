@@ -18,7 +18,6 @@ If you want something to watch, you can check out the YouTube channels I manage:
 #
 ## Links and Contacts
 - **Matrix** (preferred): [@stonley890:matrix.org](https://matrix.to/#/@stonleyfx:matrix.org)
-
 - **Mastodon**: [@Stonley890](https://mastodon.social/@Stonley890)
 - **Discord**: stonleyfx
 - **Primary YouTube**: [Stonley890 - YouTube](https://youtube.com/@Stonley890)
