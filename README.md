@@ -16,21 +16,26 @@ If you're looking for music it's free to listen, download, and use from [SoundCl
 
 If you want something to watch, you can check out the YouTube channels I manage: [Stonley890](https://youtube.com/@Stonley890), [Bog The MudWing](https://youtube.com/@bogthemudwing), [StonleyFX](https://youtube.com/@StonleyFX), and [Waffle Irons Gaming](https://youtube.com/@waffleirons).
 #
-## Links and Contacts
+## Contact
 - **Matrix** (preferred): [@stonley890:matrix.org](https://matrix.to/#/@stonleyfx:matrix.org)
 - **Mastodon**: [@Stonley890](https://mastodon.social/@Stonley890)
 - **Discord**: stonleyfx
-- **Primary YouTube**: [Stonley890 - YouTube](https://youtube.com/@Stonley890)
-- **SoundCloud**: [Stonley890 - SoundCloud](https://soundcloud.com/stonley890)
-- **Modrinth**: [Stonley890 - Modrinth](https://modrinth.com/user/Stonley890)
+- **Email**: stonley@macver.org
+
+## My Stuff
+### Music
+- **SoundCloud**: [Stonley890 ](https://soundcloud.com/stonley890)
+### Minecraft
+- **Modrinth**: [Stonley890](https://modrinth.com/user/Stonley890)
+- **Spigot**: [Stonley890](https://www.spigotmc.org/members/stonley890.1565114)
+- **Paper Hangar**: [Stonley890](https://hangar.papermc.io/Stonley890)
+### Video
+- **YouTube**: [Stonley890](https://youtube.com/@Stonley890), [Bog The MudWing](https://youtube.com/@bogthemudwing), [StonleyFX](https://youtube.com/@StonleyFX), [Waffle Irons Gaming](https://youtube.com/@waffleirons)
+- **PeerTube**: (NO ADS) [Stonley's Channels](https://video.everythingbagel.me/a/stonley/video-channels)
+- **Odysee**: (NO ADS) [Stonley890](https://odysee.com/@Stonley890:0), [StonleyFX](https://odysee.com/@StonleyFX:9)
 
 ## Also Check Out
 - **Wings of Fire: The New World**: [Web Page](https://www.woftnw.org)
-- **Bog The MudWing**: [YouTube](https://youtube.com/@BogTheMudwing)
-- **Waffle Irons Gaming**: [YouTube](https://youtube.com/@WaffleIrons)
-- **StonleyFX**: [YouTube](https://youtube.com/@StonleyFX)
-
-#
 
 If you are financially stable and find value in my work, you can donate using the button below.
 
