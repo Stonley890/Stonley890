@@ -6,7 +6,7 @@ You can learn more about me on my GitHub Pages site: https://stonley890.github.i
 You can email me at stonley@macver.org
 
 [![Matrix: @stonleyfx:matrix.org](https://img.shields.io/badge/Matrix-%40stonleyfx%3Amatrix.org-brightgreen?style=for-the-badge&logo=matrix)](https://matrix.to/#/@stonleyfx:matrix.org)
-![Discord: @stonleyfx](https://img.shields.io/badge/Discord-%40stonleyfx-darkblue?style=for-the-badge&logo=discord)
+[![Discord: @stonleyfx](https://img.shields.io/badge/Discord-%40stonleyfx-darkblue?style=for-the-badge&logo=discord)](https://discord.com/users/505833634134228992)
 
 
 #
@@ -19,7 +19,7 @@ If you want something to watch, you can check out the YouTube channels I manage:
 ## Contact
 - **Matrix** (preferred): [@stonley890:matrix.org](https://matrix.to/#/@stonleyfx:matrix.org)
 - **Mastodon**: [@Stonley890](https://mastodon.social/@Stonley890)
-- **Discord**: stonleyfx
+- **Discord**: [stonleyfx](https://discord.com/users/505833634134228992)
 - **Email**: stonley@macver.org
 
 ## My Stuff
