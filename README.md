@@ -31,8 +31,6 @@ If you want something to watch, you can check out the YouTube channels I manage:
 - **Paper Hangar**: [Stonley890](https://hangar.papermc.io/Stonley890)
 ### Video
 - **YouTube**: [Stonley890](https://youtube.com/@Stonley890), [Bog The MudWing](https://youtube.com/@bogthemudwing), [StonleyFX](https://youtube.com/@StonleyFX), [Waffle Irons Gaming](https://youtube.com/@waffleirons)
-- **PeerTube**: (NO ADS) [Stonley's Channels](https://video.everythingbagel.me/a/stonley/video-channels)
-- **Odysee**: (NO ADS) [Stonley890](https://odysee.com/@Stonley890:0), [StonleyFX](https://odysee.com/@StonleyFX:9)
 
 ## Also Check Out
 - **Wings of Fire: The New World**: [Web Page](https://www.woftnw.org)
